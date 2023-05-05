@@ -1,0 +1,38 @@
+.option-one-screen{
+    display:none;
+}
+
+.option-two-screen{
+    display:none;
+}
+
+.option-key-1-screen{
+  display:none;
+}
+.option-key-2-screen{
+  display:none;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Anton';
+}
+
+h1 {
+    text-align: center;
+}
+
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
